@@ -1,4 +1,4 @@
-# Nine-Men-s-Morris-Game
+# Daddy-Game
 
 prerequites installation :
 pip install pygame  (version ==2.0.1)
