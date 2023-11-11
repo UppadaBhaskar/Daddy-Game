@@ -12,3 +12,5 @@ the executable game can only run when the all other files resides in data folder
 
 
 
+![dd_home](https://github.com/UppadaBhaskar/Daddy-Game/assets/118506768/372e3767-a678-4f05-aad7-ed021a4b7ce3)
+![dd_game](https://github.com/UppadaBhaskar/Daddy-Game/assets/118506768/05024408-2454-41c1-a8fe-99f692233df6)
