@@ -6,11 +6,11 @@ pip install pygame  (version ==2.0.1)
 The actual code is inside daddy.py file.
 All types of files should reside in same folder of daddy.py python file.
 
-##executable game:##
+##executable game:
 Can run the daddy.exe to play game in local system.
 the executable game can only run when the all other files resides in data folder.
 
-#Download:#
+#Download:
 Download the game from following link, where you need to unzip the "data" folder and keep it in same folder of daddy application.
 Link : https://drive.google.com/drive/folders/1SHSF3H5VHyQ7_Q7suwO1-mLpgWATtTHi?usp=sharing
 
